@@ -18,6 +18,7 @@ import javafx.scene.control.ScrollPane;
 import javafx.scene.layout.VBox;
 import model.services.DepartmentService;
 import model.services.SellerService;
+import model.services.SellerService;
 
 public class ViewControler implements Initializable{
 	
